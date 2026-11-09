@@ -1,0 +1,2 @@
+# Official TikTok Content Posting API client (compliant auto-poster)
+requests>=2.31
